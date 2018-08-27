@@ -1,15 +1,18 @@
 # Convolutional Neural Networks
 
-- Course 1 : Foundations of Convolutional Neural Networks
+- Week 1 : Foundations of Convolutional Neural Networks
 
         Edge detection, Basic knowledge about CNN
 
-- Course 2 : Data Structures
+- Week 2 : Deep convolutional models: case studies
 
-- Course 3 : Algorithms on Graphs
+        Classic Networks(AlexNet, VGG), ResNets, 1x1 convolutions, Inception, Transfer learning, Data augmentation
 
-- Course 4 : Algorithms on Strings
+- Week 3 : Object detection
 
-- Course 5 : Advanced Algorithms and Complexity
+        Object localization, Landmark detection, Object detection, Sliding windows, IOU, Non-max suppression, Anchor Boxes, YOLO, Region proposals
 
-- Course 6 : Genome Assembly Programming Challenge
+- Week 4 : Special applications: Face recognition &Neural style transfer
+
+        Face recognition
+

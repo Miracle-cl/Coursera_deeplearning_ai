@@ -6,11 +6,15 @@
 
 - Week 2 : Deep convolutional models: case studies
 
-        Classic Networks(AlexNet, VGG), ResNets, 1x1 convolutions, Inception, Transfer learning, Data augmentation
+        Classic Networks(AlexNet, VGG), ResNets, 1x1 convolutions, Inception, 
+        
+        Transfer learning, Data augmentation
 
 - Week 3 : Object detection
 
-        Object localization, Landmark detection, Object detection, Sliding windows, IOU, Non-max suppression, Anchor Boxes, YOLO, Region proposals
+        Object localization, Landmark detection, Object detection, Sliding windows, 
+        
+        YOLO, IOU, Non-max suppression, Anchor Boxes, Region proposals
 
 - Week 4 : Special applications: Face recognition &Neural style transfer
 
